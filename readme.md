@@ -1,3 +1,1 @@
-Aqui lacaramos muito.d
-o
-Passo 7
+Alterações master.
